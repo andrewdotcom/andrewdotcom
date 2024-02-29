@@ -2,6 +2,8 @@
 
 I'm the Director/Founder of [More Than Machines](http://www.morethanmachines.com). I'm currently working hard to give agrifood supply chains access to the best ML/AI driven tools available.
 
+📫 My personal blog is over at [askinner.dev](https://askinner.dev)
+
 <!--
 **andrewdotcom/andrewdotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
